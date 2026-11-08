@@ -6,6 +6,10 @@ I'm a research and data analytics professional with experience applying data sci
 
 I am particularly interested in using data to improve educational outcomes, strengthen community engagement, identify inequities, and support evidence-based decisions.
 
+
+[![View My Résumé](https://img.shields.io/badge/View%20My%20Resume-276DC3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-Spann/resume)
+
+
 ## Areas of Expertise
 
 - **Data analysis and research:** Exploratory data analysis, data cleaning, descriptive statistics, research design, and quantitative analysis
