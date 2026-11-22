@@ -33,7 +33,7 @@ I am particularly interested in using data to improve educational outcomes, stre
 ### Predicting Student Success in Pharmacy Education
 Exploring how admissions and academic assessment data can help identify factors associated with pharmacy student success. Areas of work include exploratory analysis, predictive modeling, cross-validation, model evaluation, and responsible interpretation of results.
 
-[View the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZjgyNmY2MzctYjJkYy00YjM2LWJiNWItMWQ4ZjQ2NTdjYThjIiwidCI6IjAyYWMwYzA3LWI3NWYtNDZiZi05YjEzLTM2MzBiYTk0YmI2OSIsImMiOjF9)
+[View the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMWVlODI0MGItNjE3MC00NmRhLWI4NGMtOGM3ZWNiYjFmZmM5IiwidCI6IjAyYWMwYzA3LWI3NWYtNDZiZi05YjEzLTM2MzBiYTk0YmI2OSIsImMiOjF9)
 ### Partnership and Community Engagement Analytics
 Developing analytical approaches and dashboards to assess institutional partnerships, community engagement activity, organizational outreach, and performance against strategic objectives.
 
